@@ -9,9 +9,9 @@ import GithubIcon from '../../Icon/GithubIcon';
 import InstagramIcon from '../../Icon/InstagramIcon';
 import LinkedInIcon from '../../Icon/LinkedInIcon';
 import TwitterIcon from '../../Icon/TwitterIcon';
+import WeChatIcon from "../../Icon/WeChatIcon";
 import Section from '../../Layout/Section';
 import ContactForm from './ContactForm';
-import WeChatIcon from "../../Icon/WeChatIcon";
 
 const ContactValueMap: Record<ContactType, ContactValue> = {
   [ContactType.Email]: {Icon: EnvelopeIcon, srLabel: 'Email'},

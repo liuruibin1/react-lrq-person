@@ -7,6 +7,8 @@ import {
   MapIcon,
   SparklesIcon,
 } from '@heroicons/react/24/outline';
+
+import WeChatIcon from "../components/Icon/WeChatIcon";
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
@@ -33,7 +35,6 @@ import {
   TestimonialSection,
   TimelineItem,
 } from './dataDef';
-import WeChatIcon from "../components/Icon/WeChatIcon";
 
 /**
  * Page meta data
